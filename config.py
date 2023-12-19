@@ -1,0 +1,12 @@
+token = "6642072846:AAFsJYIu9j0KXTY8VzPp5Fj8xIskoUyrE68"
+admin = 6826479744
+key = [""] #
+session = "main"
+apiid = 28492101
+apihash = "3bde8a7823af88c00813002620e883a6"
+workers = 32
+botusername = ""
+dev = "aLoonnt"
+topic = "app"
+host = "0.0.0.0"
+port = 80
